@@ -1,9 +1,9 @@
-import React from 'react'
+import { Link } from "react-router-dom"
 
 const Dashboard = () => (
     <div>
         This is dashboard page 
-        <a href="./">Log Out</a>
+        <Link to='/'>Log out</Link>
     </div>
 )
 
