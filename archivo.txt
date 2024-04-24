@@ -1,0 +1,10 @@
+React => npm run dev
+axios 
+react-router-dom 
+react-icons
+scss (live sass compiler  => descargado directamente de las extensiones de vscode)
+
+node => node index.js
+cors 
+express 
+mysql 
