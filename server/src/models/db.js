@@ -3,7 +3,7 @@ const  mysql = require('mysql')
 const db = mysql.createConnection({
     user: 'root',
     host: 'localhost',
-    password: '', //Opcional, solo si esta en el xampp
+    password: '', 
     database: 'clientes',
 })
 
